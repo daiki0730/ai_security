@@ -13,4 +13,4 @@ RUN pip install --upgrade pip
 RUN pip install \
     'adversarial-robustness-toolbox==v1.3' \
     'mnist==v0.2.2' \
-    'japanize-matplotlib==
+    'japanize-matplotlib==v1.1.2'
