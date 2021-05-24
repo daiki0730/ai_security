@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39bca21c-d5b9-4cf6-a834-bde35a8817a5" name="デフォルト変更リスト" comment="" />
+    <list default="true" id="39bca21c-d5b9-4cf6-a834-bde35a8817a5" name="デフォルト変更リスト" comment="">
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_notebooks/intro_to_numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/my_notebooks/intro_to_numpy.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +41,7 @@
       <workItem from="1619798394250" duration="39000" />
       <workItem from="1619798478080" duration="2831000" />
       <workItem from="1620744884671" duration="1153000" />
+      <workItem from="1621471757668" duration="293000" />
     </task>
     <servers />
   </component>
